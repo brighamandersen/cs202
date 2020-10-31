@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbc6bc6a-7417-4537-bcce-2a8a1177843c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j6YpUASJLz7vCsFLNsdz1me0Yd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Student" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="614" y="215" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603127429490">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="614" y="215" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1707.960/3840.-378.1920.1080@0.0.1707.960" timestamp="1603127429490" />
+    <state x="635" y="235" key="FileChooserDialogImpl" timestamp="1603127332036">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="635" y="235" key="FileChooserDialogImpl/0.0.1707.960/3840.-378.1920.1080@0.0.1707.960" timestamp="1603127332036" />
+    <state width="1686" height="255" key="GridCell.Tab.0.bottom" timestamp="1603127644721">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1686" height="255" key="GridCell.Tab.0.bottom/0.0.1707.960/3840.-378.1920.1080@0.0.1707.960" timestamp="1603127644721" />
+    <state width="1686" height="255" key="GridCell.Tab.0.center" timestamp="1603127644721">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1686" height="255" key="GridCell.Tab.0.center/0.0.1707.960/3840.-378.1920.1080@0.0.1707.960" timestamp="1603127644721" />
+    <state width="1686" height="255" key="GridCell.Tab.0.left" timestamp="1603127644721">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1686" height="255" key="GridCell.Tab.0.left/0.0.1707.960/3840.-378.1920.1080@0.0.1707.960" timestamp="1603127644721" />
+    <state width="1686" height="255" key="GridCell.Tab.0.right" timestamp="1603127644721">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1686" height="255" key="GridCell.Tab.0.right/0.0.1707.960/3840.-378.1920.1080@0.0.1707.960" timestamp="1603127644721" />
+  </component>
+</project>
