@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fd91bb6-42d6-42bc-af67-da4a177c583b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jyQZXGDNZf7G4ZuGz5aKRF5b1O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="608" y="38" key="#Project_Structure" timestamp="1604773924073">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="608" y="38" key="#Project_Structure/0.0.1707.920@0.0.1707.920" timestamp="1604773924073" />
+    <state x="908" y="218" key="FileChooserDialogImpl" timestamp="1604774739230">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="908" y="218" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1604774739230" />
+    <state x="728" y="59" key="SettingsEditor" timestamp="1605544918424">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="728" y="59" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1605544918424" />
+    <state x="942" y="84" key="new project wizard" timestamp="1605544949115">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="942" y="84" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1605544949115" />
+    <state x="784" y="214" key="run.anything.popup" timestamp="1604774516298">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="784" y="214" key="run.anything.popup/0.0.1707.920@0.0.1707.920" timestamp="1604774516298" />
+  </component>
+</project>

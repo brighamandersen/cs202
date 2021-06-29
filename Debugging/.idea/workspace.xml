@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17c55a2e-bbb2-46d2-8cb9-2512847f2ffa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1khjYp9OXCFZY9jgs1CiEAjyLC5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BuggyClass" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Debugging.BuggyClass" />
+      <module name="Debugging" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="310" y="116" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606159882962">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="310" y="116" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920/3840.-478.1920.1040@0.0.1707.920" timestamp="1606159882962" />
+    <state x="584" y="263" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606159876067">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="584" y="263" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1707.920/3840.-478.1920.1040@0.0.1707.920" timestamp="1606159876067" />
+    <state width="1686" height="300" key="GridCell.Tab.0.bottom" timestamp="1606161126764">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.0.bottom/0.0.1707.920/3840.-478.1920.1040@0.0.1707.920" timestamp="1606161126764" />
+    <state width="1686" height="300" key="GridCell.Tab.0.center" timestamp="1606161126764">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.0.center/0.0.1707.920/3840.-478.1920.1040@0.0.1707.920" timestamp="1606161126764" />
+    <state width="1686" height="300" key="GridCell.Tab.0.left" timestamp="1606161126764">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.0.left/0.0.1707.920/3840.-478.1920.1040@0.0.1707.920" timestamp="1606161126764" />
+    <state width="1686" height="300" key="GridCell.Tab.0.right" timestamp="1606161126764">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.0.right/0.0.1707.920/3840.-478.1920.1040@0.0.1707.920" timestamp="1606161126764" />
+    <state width="1686" height="300" key="GridCell.Tab.1.bottom" timestamp="1606161126539">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.1.bottom/0.0.1707.920/3840.-478.1920.1040@0.0.1707.920" timestamp="1606161126539" />
+    <state width="1686" height="300" key="GridCell.Tab.1.center" timestamp="1606161126539">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.1.center/0.0.1707.920/3840.-478.1920.1040@0.0.1707.920" timestamp="1606161126539" />
+    <state width="1686" height="300" key="GridCell.Tab.1.left" timestamp="1606161126539">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.1.left/0.0.1707.920/3840.-478.1920.1040@0.0.1707.920" timestamp="1606161126539" />
+    <state width="1686" height="300" key="GridCell.Tab.1.right" timestamp="1606161126539">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="300" key="GridCell.Tab.1.right/0.0.1707.920/3840.-478.1920.1040@0.0.1707.920" timestamp="1606161126539" />
+    <state x="303" y="69" width="1092" height="758" key="SettingsEditor" timestamp="1610837689865">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="303" y="69" width="1092" height="758" key="SettingsEditor/0.0.1707.920/3840.-478.1920.1040@0.0.1707.920" timestamp="1606163829835" />
+    <state x="303" y="69" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1610837689865" />
+    <state x="516" y="81" key="new project wizard" timestamp="1610837715368">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="81" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1610837715368" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="list.get(i) &lt; list.get(i+1)" language="JAVA" />
+        <watch expression="sum + i" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
